@@ -13,9 +13,6 @@ This project is a full-stack application that includes a backend built with Node
 - [Project Structure](#project-structure)
 - [API Endpoints](#api-endpoints)
 - [Frontend Components](#frontend-components)
-- Styling
-- Linting
-- License
 
 ## Getting Started
 
