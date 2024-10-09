@@ -1,9 +1,6 @@
 This project is a full-stack application that includes a backend built with Node.js, Express, and MongoDB, and a frontend built with React and Vite.
 
 ## Table of Contents
-
-- [Project Title](#project-title)
-- [Table of Contents](#table-of-contents)
 - [Getting Started](#getting-started)
   - Prerequisites
   - Installation
